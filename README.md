@@ -16,7 +16,7 @@ Sales by Product Category and Type: Analyzes sales distribution across various p
 
 ## Dataset
 
-The dataset used in this project includes daily sales data, product details, store locations, and customer transactions. The data was sourced from [].
+The dataset used in this project includes daily sales data, product details, store locations, and customer transactions. The data was sourced from [Coffee Shop Sales.xlsx].
 
 ## Project Structure
 
